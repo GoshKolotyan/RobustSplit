@@ -1,5 +1,6 @@
 RobustSplit - ML Data Splitting Framework
 Directory Structure
+```
 robustsplit/
 ├── robustsplit/
 │   ├── __init__.py
@@ -72,3 +73,4 @@ robustsplit/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+```
